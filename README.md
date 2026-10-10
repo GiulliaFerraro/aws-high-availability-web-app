@@ -56,6 +56,7 @@ This means the application does not depend on a single EC2 instance to remain av
 | Nginx                      | Web server used to display the application          |
 
 ## Architecture
+![AWS High Availability Architecture](diagrams/architecture.png)
 
 The final working application used:
 
