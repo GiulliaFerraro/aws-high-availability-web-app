@@ -159,6 +159,14 @@ By the end of the project, I successfully:
 - Confirmed that the application remained accessible during recovery.
 - Cleaned up the AWS resources after testing to avoid unnecessary costs.
 
+  ### Deployment Evidence
+
+The screenshot below shows two healthy EC2 instances
+running across different AWS Availability Zones,
+registered with the Application Load Balancer's Target Group.
+
+![Healthy EC2 Targets](screenshots/healthy-targets.png)
+
 ## What I Learned
 
 This project helped me connect AWS concepts with practical cloud engineering tasks.
